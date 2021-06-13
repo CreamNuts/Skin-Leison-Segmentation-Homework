@@ -4,7 +4,6 @@ from pathlib import Path
 import torch
 import numpy as np
 from einops import asnumpy
-from tqdm.auto import tqdm
 
 from metrics import Metrics
 
