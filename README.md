@@ -1,9 +1,6 @@
 # Skin-Leison-Segmentation-Homework
 
-<img src="./skin_leison/testing/image/ISIC_0000000.jpg"/>
-<img src="./skin_leison/testing/label/ISIC_0000000_segmentation.jpg"/>
-<img src="./skin_leison/testing/image/ISIC_0000003.jpg"/>
-<img src="./skin_leison/testing/label/ISIC_0000003_segmentation.jpg"/>
+![img1](./skin_leison/testing/image/ISIC_0000000.jpg)![img2](./skin_leison/testing/label/ISIC_0000000_segmentation.jpg)![img3](./skin_leison/testing/image/ISIC_0000003.jpg)![img4](./skin_leison/testing/label/ISIC_0000003_segmentation.jpg)
 
 
 ## Install
